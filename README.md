@@ -16,7 +16,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Product Catalog SPA** | Modern e-commerce product catalog featuring search filters, modals, and error boundaries. | React, Tailwind CSS, Zod | [Repo](https://github.com/foley15) / [Live](https://exam2-two-phi.vercel.app/) |
+| **Product Catalog SPA** | Modern e-commerce product catalog featuring search filters, modals, and error boundaries. | React, Tailwind CSS, Zod | [Repo](https://github.com/foley15/exam2) / [Live](https://exam2-two-phi.vercel.app/) |
 | **Tesla Landing Page Replica** | Fully responsive, pixel-perfect frontend clone focusing on smooth layouts and UI components. | HTML, CSS, JavaScript | [Repo](https://github.com/foley15/tesla-landing-page) / [Live](https://tesla-landing-page-eta.vercel.app/) |
 
 <br>
